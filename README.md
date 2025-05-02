@@ -9,7 +9,7 @@ This repository contains the full Unity project and C# source code for my horror
 | Folder             | Purpose                             |
 |--------------------|--------------------------------------|
 | `Assets/`          | All game content: scripts, scenes, UI, prefabs |
-| `Scripts/`         | Main gameplay scripts (inside `Assets/`) |
+| `Scripts/`         | Main gameplay scripts (Onedrive Link Provided Below) |
 | `Scenes/`          | Unity scenes (prison, dimension, menu, etc.) |
 | `Packages/`        | Unity package dependencies           |
 | `ProjectSettings/` | Project-wide Unity config            |
